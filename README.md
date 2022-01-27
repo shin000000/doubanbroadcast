@@ -1,0 +1,2 @@
+# doubanbroadcast
+一个非常简单的用selenium+chrome浏览器来给所有的豆瓣广播截图的脚本
